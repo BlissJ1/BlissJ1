@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @BlissJ1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi, I’m @Bliss J  
+**ServiceNow Developer | ITSM Specialist | Automation Enthusiast**
 
-<!---
-BlissJ1/BlissJ1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Areas of Interest**  
+- ServiceNow Development (ITSM, ITOM, HRSD)  
+- Workflow Automation and Orchestration  
+- Service Portal and Custom App Development  
+- IntegrationHub and REST API Integrations  
+- Platform Optimization and Customizations  
+
+**Currently Learning**  
+- ServiceNow AI and Predictive Intelligence  
+- CSM and FSM modules  
+- Advanced scripting and Performance Analytics  
+- SecOps and GRC integrations  
+
+**Looking to Collaborate On**  
+- ServiceNow custom app solutions  
+- Automation and workflow projects  
+- ServiceNow platform upgrades and enhancements  
+
+**Contact**  
+- Email: blisslogics@gmail.com  
